@@ -1,2 +1,1 @@
-FROM ubuntu
-RUN apt update
+FROM ubuntu:22.04
